@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color:white;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 12px;
+    color: green;
+}
+
+.laatikko {
+    width: 100px;
+    height: 100px;
+    border-style:dotted;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: upper-alpha;
+}
+
+.linkkipaikka {
+    position: absolute; top: 0cm; left: 0cm;
+}
