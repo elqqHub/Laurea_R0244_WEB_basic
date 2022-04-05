@@ -6,7 +6,7 @@
 #body2 {
     background-size: cover;
     background-attachment: fixed;
-    background-image: url("/4B/Kuvat/tausta.jpg")
+    background-image: url("tausta.jpg")
 }
 /* 3B TIEDOSTON TYYLITTELYT/ */
 .h13 {
